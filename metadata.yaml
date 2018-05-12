@@ -1,10 +1,13 @@
 _repo: The-Lives-of-the-Twelve-Caesars-Volume-01--Julius-Caesar_6386
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Thomson, Alexander, M.D.
     gutenberg_agent_id: '2039'
     url: http://www.gutenberg.org/2009/agents/2039
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Suetonius
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '33375'
     url: http://www.gutenberg.org/2009/agents/33375
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6386#The-Lives-of-the-Twelve-Caesars-Volume-01--Julius-Caesar
 gutenberg_issued: '2004-12-13'
 gutenberg_type: Text
 identifiers:
